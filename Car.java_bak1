@@ -1,0 +1,30 @@
+class Car {
+
+	int vin;
+	String model;
+	String make;
+	double price;
+	int speed;
+	String color;
+
+	Car() {
+		System.out.println("Inside Car constructor!!");
+	}
+	
+	void start() {
+		System.out.println("Car started!!");
+	}
+
+	void speedUp() {
+		System.out.println("Car is speeding up.....");
+	}
+
+	void speedDown() {
+		System.out.println("Car is speeding down.....");
+	}
+
+	void stop() {
+		System.out.println("Car stopped!!");
+	}
+	
+}
