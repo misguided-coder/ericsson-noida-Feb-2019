@@ -1,0 +1,14 @@
+1) Create a 2D array (4x4 size) where you have to keep color values 
+   and display them as per their rgb value.
+
+2) Create an Employee class which will have following fields :
+   int id
+   String name
+   double salary
+  
+   i) keep 100 emloyees in a list collection 
+   ii) diaplay them sorted by id
+   iii) diaplay them sorted by higher salary plus save soted results
+        in differet collection
+
+
