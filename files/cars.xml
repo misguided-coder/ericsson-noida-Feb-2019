@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+	<car vin="100">
+		<model>X1</model>
+		<make>BMW</make>
+		<price>1200000.00</price>
+		<color>Black</color>
+	</car>
+	<car vin="200">
+		<model>X2</model>
+		<make>BMW</make>
+		<price>1200000.00</price>
+		<color>Black</color>
+	</car>
+	<car vin="300">
+		<model>Q5</model>
+		<make>Audi</make>
+		<price>9900000.00</price>
+		<color>Yellow</color>
+	</car>
+	<car vin="400">
+		<model>Q7</model>
+		<make>Audi</make>
+		<price>4400000.00</price>
+		<color>Black</color>
+	</car>
+</cars>
